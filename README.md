@@ -24,12 +24,26 @@ Part 4
 
 ```
 Twittbuff/
-├── [Buffpy Github](https://github.com/vtemian/buffpy)
-│   ├── posttweets.py
+├── buffpy/
+│   └── posttweets.py
 ├── get-pip.py
-└── [python-unicodecsv Github](https://github.com/jdunck/python-unicodecsv)/
+└── python-unicodecsv/
 └── README.md
-└── [Tweepy Github](https://github.com/tweepy/tweepy)/
-	├── nicosuave/
-		├── gettweets.py
+└── tweepy/
+	└── nicosuave/
+		└── gettweets.py
 ```
+
+## Thank you
+
+jdunck team
+
+- [python-unicodecsv](https://github.com/jdunck/python-unicodecsv)/
+
+tweepy team
+
+- [tweepy](https://github.com/tweepy/tweepy)/
+
+- buffpy team
+
+- [buffpy](https://github.com/vtemian/buffpy)
