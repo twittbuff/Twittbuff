@@ -14,7 +14,7 @@ Part 3
 
 - Right click the 'tweepy' folder and choose 'Services' > 'New Terminal At Folder'
 - Type: `sudo pip install tweepy` press enter, and type in your password.
-- Test 'gettweets.py' by typing: `cd nicosuave/nicosuave` press enter, then type `python gettweets.py`
+- Test 'gettweets.py' by typing: `cd nicosuave` press enter, then type `python gettweets.py`
 
 Part 4 
 
@@ -37,5 +37,7 @@ Twittbuff/
 ## Thank you
 
 jdunck team [python-unicodecsv](https://github.com/jdunck/python-unicodecsv)
+
 tweepy team [tweepy](https://github.com/tweepy/tweepy)
+
 buffpy team [buffpy](https://github.com/vtemian/buffpy)
