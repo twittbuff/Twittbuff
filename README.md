@@ -27,6 +27,8 @@ Part 4
 - Type: `sudo python setup.py install` press enter, and type in your password.
 - Test 'posttweets.py' by typing: `python posttweets.py`
 
+## Directory Structure
+
 ```
 Twittbuff/
 ├── buffpy/
