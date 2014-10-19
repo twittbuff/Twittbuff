@@ -14,12 +14,13 @@ Part 3
 
 - Right click the 'tweepy' folder and choose 'Services' > 'New Terminal At Folder'
 - Type: `sudo pip install tweepy` press enter, and type in your password.
+- Also Type: `sudo python setup.py install` press enter, and type in your password, just in case.
 - Test 'gettweets.py' by typing: `cd nicosuave` press enter, then type `python gettweets.py`
 
 Part 4 
 
 - Right click the 'buffpy' folder and choose 'Services' > 'New Terminal At Folder'
-- Type: `python setup.py install` press enter, and type in your password.
+- Type: `sudo python setup.py install` press enter, and type in your password.
 - Test 'posttweets.py' by typing: `python posttweets.py`
 
 ```
