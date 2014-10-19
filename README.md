@@ -11,7 +11,7 @@ Part 1
 
 Part 2
 
-- Right click the 'python-unicode' folder and choose 'Services' > 'New Terminal At Folder'
+- Right click the 'python-unicodecsv' folder and choose 'Services' > 'New Terminal At Folder'
 - Type: `sudo python setup.py install` press enter, and type in your password.
 
 Part 3
