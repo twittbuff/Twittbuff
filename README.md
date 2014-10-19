@@ -18,7 +18,7 @@ Part 3
 
 Part 4 
 
-- Right clich the 'buffpy' folder and choose 'Services' > 'New Terminal At Folder'
+- Right click the 'buffpy' folder and choose 'Services' > 'New Terminal At Folder'
 - Type: `python setup.py install` press enter, and type in your password.
 - Test 'posttweets.py' by typing: `python posttweets.py`
 
