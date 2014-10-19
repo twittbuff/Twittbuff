@@ -1,5 +1,9 @@
 ## Quick start
 
+Part 0 
+
+- Open System Preferences, select 'Keyboard' > 'Shortcuts' > 'Services'. Check the 'New Terminal at Folder' box.
+
 Part 1
 
 - Right click the 'Twittbuff' folder and choose 'Services' > 'New Terminal At Folder'
