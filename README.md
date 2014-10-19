@@ -37,7 +37,5 @@ Twittbuff/
 ## Thank you
 
 jdunck team [python-unicodecsv](https://github.com/jdunck/python-unicodecsv)
-
 tweepy team [tweepy](https://github.com/tweepy/tweepy)
-
 buffpy team [buffpy](https://github.com/vtemian/buffpy)
