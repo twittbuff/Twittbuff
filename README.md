@@ -14,7 +14,7 @@ Part 3
 
 - Right click the 'tweepy' folder and choose 'Services' > 'New Terminal At Folder'
 - Type: `sudo pip install tweepy` press enter, and type in your password.
-- Also Type: `sudo python setup.py install` press enter, and type in your password, just in case.
+- Also type: `sudo python setup.py install` press enter, and type in your password, just in case.
 - Test 'gettweets.py' by typing: `cd nicosuave` press enter, then type `python gettweets.py`
 
 Part 4 
