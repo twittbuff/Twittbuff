@@ -6,7 +6,7 @@ requires_list = [
     'mock==1.0.1',
     'nose==1.3.0',
     'rauth==0.6.2',
-    'requests==1.2.3',
+    'requests==2.20.0',
 ]
 
 setup(name='buffpy',
